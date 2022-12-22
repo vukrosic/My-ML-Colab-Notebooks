@@ -13,3 +13,8 @@
 [LSTM - Shakespeare character prediction.ipynb](https://colab.research.google.com/drive/1ePKLK6J0yArAHMVd2D1mlg60C3LLtqsa?usp=share_link)
 
 [Diabetes Prediction - Feedforward NN.ipynb](https://colab.research.google.com/drive/1W4lOTnmAsSEyi7ty8dbnre4pAbBcR2q7?usp=share_link)
+
+
+
+# Blog
+[Intuitive Explanation of Gradient Descent](https://vukrosic.github.io/gradient-descent-optimization-intuitive-explanation/)
