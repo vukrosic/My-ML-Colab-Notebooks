@@ -17,4 +17,4 @@
 
 
 # Blog
-[Intuitive Explanation of Gradient Descent](https://vukrosic.github.io/gradient-descent-optimization-intuitive-explanation/)
+[Intuitive Explanation of Gradient Descent Optimization](https://vukrosic.github.io/gradient-descent-optimization-intuitive-explanation/)
